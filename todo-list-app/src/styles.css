@@ -103,7 +103,7 @@ body {
     opacity: 0.8;
   }
   
-  /* Responsive Design */
+  /* Responsiveness */
   @media (max-width: 600px) {
     .App {
       margin: 20px;
